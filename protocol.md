@@ -3,6 +3,7 @@
 ## Registration
 
 This protocol shall be registered with Zenodo.
+The Zenodo DOI: 10.5281/zenodo.23194471 - Latest release
 
 ## Authors
 
