@@ -1,0 +1,7 @@
+Sensitivity Analysis of the Composite Ranking: Spearman Rank Correlations Between the Baseline and Alternative Weighing Scenarios,,,
+Comparison,Spearman Corr,Overlap,Overlap %age
+W0 vs W1,0.965761347,14,70
+W0 vs W2,0.995480355,20,100
+W0 vs W3,0.965541672,20,100
+W0 vs W4,0.950235465,14,70
+W0 vs W5,0.844721,11,55
