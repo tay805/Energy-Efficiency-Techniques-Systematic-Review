@@ -179,7 +179,7 @@ Records will be tracked in a shared spreadsheet workbook covering identification
 
 ### Selection Process
 
-Screening will be conducted by four reviewers independently in two phases. In phase I, screening will be done based on title and abstract, and in phase II, screening will be done based on the full text. A study will be included only after going through both phases. When both reviewers in each phase reach a consensus and that decision will be retained as the final screening decision. In case of disagreement, Reviewer 3 will be consulted and his/her decision will be considered as the final decision. Only those manuscripts go through full-text screening which are included in phase I. The manuscripts excluded at phase I are dropped altogether.
+Screening will be conducted independently in two phases with two reviewers in each phase. In phase I, screening will be done based on title and abstract, and in phase II, screening will be done based on the full-text. A study will be included only after going through both phases. When both reviewers in a phase acheive consensus, the decision will be taken as the final screening decision. In case of disagreement between the two reviewers, a third independent reviewer will be consulted and his/her decision will be taken as the final decision. Only those manuscripts that will be included in phase I will proceed to full-text screening. The manuscripts excluded at phase I will be dropped altogether. 
 
 ### Data Collection Process
 
