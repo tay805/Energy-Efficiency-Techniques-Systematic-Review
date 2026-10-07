@@ -83,7 +83,7 @@ RQ8. How is security and privacy addressed in energy-efficient edge device desig
 
 - EC1. Exclude studies published before January 2014 or after July 2026.
 
-- EC2. Exclude studies published in sources that were not indexed in Scopus or Web of Science (SCIE).
+- EC2. Exclude studies that are not published in sources indexed in Scopus or Web of Science (SCIE).
 
 - EC3. Exclude survey or review articles on IoT/WSN energy efficiency, as opposed to primary research contributions. (Excluded surveys or reviews shall be retained and examined separately to position the review’s novelty)
 
