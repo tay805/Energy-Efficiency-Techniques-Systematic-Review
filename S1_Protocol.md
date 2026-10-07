@@ -29,7 +29,7 @@ No financial or other support is received for this review. No sponsor or funder 
 
 3. Sensitivity analysis for composite ranking was updated to have an unbiased and proper methodology for ranking the works. 
 
-4. Spearman Rank Correlations Between the Baseline and Alternative Weighing Scenarios to report the effect of various weighing scenarios on the final ranking.
+4. Spearman Rank Correlations Between the Baseline and Alternative Weighting Scenarios to report the effect of various weighting scenarios on the final ranking.
 
 ## Rationale
 
@@ -197,7 +197,7 @@ No single outcome measure is prioritized across the corpus, given the methodolog
 
 - No quantitative meta-analysis will be planned or conducted; included studies report heterogeneous, non-poolable outcome metrics (energy savings expressed in different units, under different baselines and evaluation conditions), making statistical pooling inappropriate.
 
-- A composite scoring rubric (citation score normalized by publication age, journal/venue ranking, contribution novelty, validation strength) will be used to rank the twenty highest-impact contributions, with a planned sensitivity analysis to test the ranking's stability under different criterion weighings.
+- A composite scoring rubric (citation score normalized by publication age, journal/venue ranking, contribution novelty, validation strength) will be used to rank the twenty highest-impact contributions, with a planned sensitivity analysis to test the ranking's stability under different criterion weightings.
 
 - The primary synthesis is narrative and taxonomic: a two-axis taxonomy (seven system-perspective layers x five methodology families), descriptive quantitative analysis of publication trends, application domains, protocol adoption, and limitation-category frequency, and RQ-by-RQ thematic synthesis.
 
